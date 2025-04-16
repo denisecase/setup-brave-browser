@@ -36,22 +36,43 @@ Brave is available for:
 
 Download and install the version for your device. No account is required.
 
+## Note on Adobe PDF Integration
+After installation, the main menu in the upper-left corner of Brave may display "Error". 
+This may be triggered by Brave’s new Adobe Acrobat PDF integration, which is recommended by Brave but optional.
+
+When clicked, Brave will ask whether you want to:
+
+- Keep Adobe PDF App - Continue using the enhanced Adobe Acrobat PDF features (such as fill, sign, and comment). Choose this if you want richer PDF tools directly in the browser.
+
+- Remove the Adobe PDF App - Revert to Brave’s built-in PDF viewer, which is fast, private, and often more stable. This is recommended if you prefer simplicity and privacy.
+
+If unsure, feel free to remove it. It can always be installed later as desired. 
+
 ---
 
 ## 2. Set Global Privacy Settings
 
 After installation:
 
-1. Open Brave
-2. Go to Settings / Shields
+1. Open Brave. Click on the main menu (☰ in the upper right). Click "Settings". 
+3. On the Settings page, click the ☰ menu (in the upper left), then click **Shields**.
+4. Adjust the global defaults as needed to set: 
    - Trackers & Ads Blocking: Aggressive
-   - Upgrade connections to HTTPS: Enabled
-   - Block fingerprinting: Strict
-3. Go to Settings / Privacy and Security
-   - Disable telemetry (under Brave Rewards, Background Sync, Autofill, etc.)
-   - Review cookie, history, and permission settings
+   - Upgrade connections to HTTPS: Strict
+   - Block scripts: Off
+   - Block fingerprinting: On
+   - Block cookies: Block third-party cookies
+   - Forget me when I close this site: On
+   - Store contact information for future broken site reports: Optional
+   - Allow Facebook logins and embedded posts: Off
+   - Allow X embedded tweets: Off
+   - Allow LinkedIn embedded posts: Off
+5. On the Settings page, click the ☰ menu (in the upper left), then click **Privacy and Security**
+   - WebRTC IP handling policy: Disable non-proxied UDP
+   - Allow the data collection options if you like - they are safe and helpful.
 
-These settings will be the defaults for all profiles. They can be overwritten as desired for specific profiles.
+These global settings will be defaulted for all profiles.
+Settings can be overwritten as desired for specific profiles.
 
 ---
 
@@ -61,10 +82,9 @@ Profiles create completely separate browsing environments for work, personal, or
 
 To create a profile:
 
-1. Click the profile icon in the top-right corner
-2. Select: Add Profile
-3. Choose a name (e.g., "Work", "Personal", "Guest", "Anonymous")
-4. Optionally set a unique color theme or icon
+1. Click on the main menu (☰ in the upper right). Click "More Tools" / "Add new profile".
+2. Enter a profile name (e.g., "Work", "Personal", "Guest", "Anonymous")
+3. Optionally set a unique color theme or icon
 
 Each profile has its own:
 - Bookmarks
@@ -76,7 +96,8 @@ Each profile has its own:
 
 ## 4. Customize Each Profile
 
-Switch to each profile and adjust settings as needed.
+You may get the error again. Make your choice for Adobe PDF again and either skip or import your content from other browsers (e.g. Chrome or Edge) as desired. 
+Adjust profile settings as needed. 
 
 For example:
 - In Work: allow necessary cookies, log into trusted platforms
