@@ -80,23 +80,30 @@ Settings can be overwritten as desired for specific profiles.
 
 Profiles create completely separate browsing environments for work, personal, or anonymous use.
 
+Brave includes:
+
+- A built-in Guest profile for temporary browsing (no saved data)
+- A default profile created on installation
+- Optional custom profiles you can add and customize
+
 To create a profile:
 
 1. Click on the main menu (☰ in the upper right). Click "More Tools" / "Add new profile".
-2. Enter a profile name (e.g., "Work", "Personal", "Guest", "Anonymous")
-3. Optionally set a unique color theme or icon
+2. Enter a profile name (e.g., "Work", "Personal", "Anonymous"). 
+3. Optionally choose a color theme and icon to distinguish profiles.
 
 Each profile has its own:
 - Bookmarks
 - Cookies and login sessions
 - Extensions
-- Privacy overrides
+- Shields and privacy overrides
+- Site settings and history
 
 ---
 
 ## 4. Customize Each Profile
 
-You may get the error again. Make your choice for Adobe PDF again and either skip or import your content from other browsers (e.g. Chrome or Edge) as desired. 
+If you see Error in the upper right, make your choice for Adobe PDF again and either skip or import your content from other browsers (e.g. Chrome or Edge) as desired. 
 Adjust profile settings as needed. 
 
 For example:
@@ -105,6 +112,9 @@ For example:
 - In Anonymous: use private windows or clear history on close
 
 Profiles can be used to pin tabs, install specific extensions, or sync settings (using Brave Sync) as desired.
+
+- Switch profiles by clicking your profile icon in the upper-right corner, and choosing a profile. 
+- Manage profiles by clicking your profile icon in the upper-right corner, and choosing  "Manage Brave profiles". 
 
 ---
 
@@ -120,4 +130,3 @@ Profiles can be used to pin tabs, install specific extensions, or sync settings 
 - [Privacy Guides: Brave Mobile](https://www.privacyguides.org/en/mobile-browsers/#brave)
 
 - [YouTube: Is Brave Legit? | Controversies and Features explained](https://www.youtube.com/watch?v=NxpQ013nqc4)
-
